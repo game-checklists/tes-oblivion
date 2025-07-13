@@ -20,7 +20,6 @@ pnpm dev
 
 ```pnpm
 pnpm deploy
-
 ```
 
 ## Todos
