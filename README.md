@@ -1,8 +1,10 @@
-# ESO Oblivion Checklist
+# TES Oblivion Checklist
 
 Simple Typescript app to track your progress whilst in Cyrodill.
 
 Most likely not comprehensive, but has the majority of major things you'll want/need to do as completionist.
+
+https://game-checklists.github.io/tes-oblivion/
 
 ## Todos
 
