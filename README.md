@@ -1,4 +1,4 @@
-# ESO Oblivion Checklist
+# TES Oblivion Checklist
 
 Simple Typescript app to track your progress whilst in Cyrodill.
 
@@ -21,6 +21,8 @@ pnpm dev
 ```pnpm
 pnpm deploy
 ```
+
+https://game-checklists.github.io/tes-oblivion/
 
 ## Todos
 

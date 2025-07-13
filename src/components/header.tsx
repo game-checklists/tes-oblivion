@@ -104,7 +104,7 @@ export const Header: React.FC = () => {
 
   const handleResetProgress = () => {
     Object.keys(localStorage).forEach((key) => {
-      if (key.startsWith("eso-oblivion-checklist-progress")) {
+      if (key.startsWith("tes-oblivion-checklist-progress")) {
         localStorage.removeItem(key);
       }
     });
